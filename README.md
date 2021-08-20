@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/felipegaudencio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  </div>
-<div class="svg-tip svg-tip-one-line right" style="pointer-events: none; top: 588.156px; left: 210.3px;" hidden=""><strong>No contributions</strong> on Aug 1, 2021</div>
+
   
