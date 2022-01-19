@@ -18,6 +18,7 @@
 * 🧮 Power BI.
 * 🔮 CloudComputing 
 * 📊 Data Visualization
+-->
 
 <div>
   <a href="https://github.com/felipegaudencio">
