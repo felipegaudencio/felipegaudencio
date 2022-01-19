@@ -4,10 +4,9 @@
 
 * 👩‍💻 Data Scientist.
 * 📊 Business consultant.
-* 📚 Researcher.
+* 📚 Investigator.
 * 👩‍🎓 Technologist computer networks - UNA.
 * 🎓 PostGraduate Data Scientist & Big Data - PUCMINAS.
-* 🍾 PHD in Statistic - ICMC-USP.
 
 ## Skills 👩‍💻
 
