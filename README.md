@@ -2,7 +2,7 @@
 
 ## Who am I? 
 
-* 👩‍💻 Data Scientist 🥰.
+* 👩‍💻 Data Scientist.
 * 📊 Business consultant.
 * 📚 Researcher.
 * 👩‍🎓 Technologist computer networks - UNA.
