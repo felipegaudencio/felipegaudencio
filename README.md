@@ -1,6 +1,5 @@
 ### 😄 Olá, Sejam Bem-vindos!!! 💬
 
-<!--
 ## Who am I? 
 
 * 👩‍💻 Data Scientist 🥰.
@@ -18,7 +17,6 @@
 * 🧮 Power BI.
 * 🔮 CloudComputing 
 * 📊 Data Visualization
--->
 
 
   <div> 
