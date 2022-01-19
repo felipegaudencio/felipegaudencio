@@ -20,11 +20,6 @@
 * 📊 Data Visualization
 -->
 
-<div>
-  <a href="https://github.com/felipegaudencio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipegaudencio&show_icons=false&theme=dark&include_all_commits=true&count_private=True"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegaudencio&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
   <div> 
   <a href="https://www.youtube.com/channel/UCxOG0uT73kNAjXrG2Ij1TsA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
